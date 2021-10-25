@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![I have at least one chicken](https://octodex.github.com/images/yaktocat.png)
